@@ -95,13 +95,6 @@
     "detalle": "Festivo nacional. Día no lectivo."
   },
   {
-    "fecha": "2026-10-14",
-    "tipo": "inicio",
-    "titulo": "Inicio: curso de acceso directo a CFGM y CFGS",
-    "detalle": "Comienzo del curso de acceso directo a Ciclos Formativos de Grado Medio y Superior.",
-    "fp": true
-  },
-  {
     "fecha": "2026-10-15",
     "tipo": "evento",
     "titulo": "1.ª Junta de delegados/as",
@@ -517,8 +510,8 @@
   {
     "fecha": "2027-06-22",
     "tipo": "fin",
-    "titulo": "Fin de curso: ESO, 1.º de Bachillerato y FP",
-    "detalle": "Finalizan ESO, 1.º de Bachillerato (ordinario y de Personas Adultas), Programas de FP de Grados C y D, itinerarios IFE+16 e IFC+21, Educación Básica de Personas Adultas y Enseñanzas Deportivas."
+    "titulo": "Fin de curso: 1.º de Bachillerato y FP",
+    "detalle": "Finalizan ESO, 1.º de Bachillerato"
   },
   {
     "fecha": "2027-06-22",
@@ -561,6 +554,14 @@
     "tipo": "evento",
     "titulo": "Claustro final de curso",
     "detalle": "Claustro de fin del curso 2026/2027.",
+    "familias": false
+  },
+  {
+    "fecha": "2027-06-22",
+    "tipo": "evento",
+    "titulo": "Fechas límite de fin de curso",
+    "detalle": "Envío a Jefatura de Estudios de los listados de criterios pedagógicos y libros de texto para el próximo curso, y entrega de los informes trimestrales de los departamentos (zona compartida en la nube).",
+    "bachillerato": true,
     "familias": false
   }
 ]
