@@ -29,12 +29,6 @@
     "familias": false
   },
   {
-    "fecha": "2026-09-10",
-    "tipo": "inicio",
-    "titulo": "Inicio de curso: ESO",
-    "detalle": "Comienzo de la actividad lectiva de ESO. Inician también Educación Básica de Personas Adultas, Aulas Mentor e Informática Básica (nivel I)."
-  },
-  {
     "fecha": "2026-09-11",
     "tipo": "inicio",
     "titulo": "Presentación del curso: 2.º de Bachillerato",
@@ -49,13 +43,6 @@
     "bachillerato": true
   },
   {
-    "fecha": "2026-09-14",
-    "tipo": "evento",
-    "titulo": "Reunión general del profesorado",
-    "detalle": "13:00 h, Salón de Actos: información general del curso y entrega de horarios provisionales.",
-    "familias": false
-  },
-  {
     "fecha": "2026-09-15",
     "tipo": "inicio",
     "titulo": "Inicio de las clases de Bachillerato",
@@ -67,13 +54,6 @@
     "tipo": "inicio",
     "titulo": "Inicio de curso: Formación Profesional",
     "detalle": "Grados D de FP (ciclos formativos de Grado Básico, Medio y Superior), Programas de FP de Grado C, itinerarios IFE+16 e IFC+21, ciclos de Artes Plásticas y Diseño y Enseñanzas Deportivas.",
-    "fp": true
-  },
-  {
-    "fecha": "2026-09-21",
-    "tipo": "inicio",
-    "titulo": "Inicio: preparación de pruebas de acceso",
-    "detalle": "Preparación para pruebas de acceso a Ciclos Formativos, preparación de la prueba libre del GESO, That’s English! y Enseñanzas de Idiomas de Régimen Especial.",
     "fp": true
   },
   {
