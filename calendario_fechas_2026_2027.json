@@ -563,5 +563,12 @@
     "detalle": "Envío a Jefatura de Estudios de los listados de criterios pedagógicos y libros de texto para el próximo curso, y entrega de los informes trimestrales de los departamentos (zona compartida en la nube).",
     "bachillerato": true,
     "familias": false
+  },
+  {
+    "fecha": "2026-10-01",
+    "tipo": "inicio",
+    "titulo": "Inicio Cursos de Especialización",
+    "detalle": "",
+    "fp": true
   }
 ]
