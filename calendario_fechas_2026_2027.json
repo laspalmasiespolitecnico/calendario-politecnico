@@ -174,8 +174,8 @@
   {
     "fecha": "2026-12-04",
     "tipo": "evento",
-    "titulo": "Publicación de notas de la 1.ª evaluación",
-    "detalle": "Publicación de las calificaciones de la 1.ª evaluación de Bachillerato.",
+    "titulo": "Publicación de calificaciones de la 1.ª evaluación de Bachillerato en Pincel Ekade.",
+    "detalle": "",
     "bachillerato": true
   },
   {
@@ -315,7 +315,7 @@
   {
     "fecha": "2027-03-29",
     "tipo": "evento",
-    "titulo": "Atención a las familias",
+    "titulo": "Atención a las familias todo el profesorado",
     "detalle": "17:30–19:30 h: atención a las familias por parte de todo el profesorado."
   },
   {
@@ -350,7 +350,7 @@
   {
     "fecha": "2027-04-26",
     "tipo": "evento",
-    "titulo": "Fecha límite: calificaciones de pendientes de 1.º",
+    "titulo": "Fecha límite: calificaciones de pendientes de 1.º bachillerato",
     "detalle": "Comunicación a Jefatura de Estudios de las calificaciones de pendientes de 1.º de Bachillerato.",
     "bachillerato": true,
     "familias": false
@@ -364,7 +364,7 @@
   {
     "fecha": "2027-05-09",
     "tipo": "evento",
-    "titulo": "Fecha límite: notas de 2.º de Bachillerato",
+    "titulo": "Fecha límite: calificaciones de 2.º de Bachillerato",
     "detalle": "Introducción de las calificaciones de 2.º de Bachillerato en Pincel Ekade.",
     "bachillerato": true,
     "familias": false
@@ -403,7 +403,7 @@
     "fecha": "2027-05-17",
     "tipo": "evento",
     "titulo": "Reclamaciones de 2.º de Bachillerato",
-    "detalle": "Plazo de presentación de reclamaciones a las calificaciones de la evaluación final ordinaria de 2.º de Bachillerato.",
+    "detalle": "Plazo de presentación de reclamaciones a las calificaciones de la evaluación final ordinaria de 2.º de Bachillerato hasta el 18/5 a las 14:00",
     "hasta": "2027-05-18",
     "bachillerato": true
   },
@@ -432,7 +432,7 @@
   {
     "fecha": "2027-06-01",
     "tipo": "evento",
-    "titulo": "Fecha límite: calificaciones de la extraordinaria de pendientes de 1.º",
+    "titulo": "Fecha límite: calificaciones de la extraordinaria de pendientes de 1.º bachillerato",
     "detalle": "Entrega en Jefatura de Estudios de las calificaciones de la evaluación extraordinaria de pendientes de 1.º de Bachillerato.",
     "bachillerato": true,
     "familias": false
@@ -456,7 +456,7 @@
   {
     "fecha": "2027-06-07",
     "tipo": "evento",
-    "titulo": "Sesiones de la evaluación final ordinaria de 1.º",
+    "titulo": "Sesiones de la evaluación final ordinaria de 1.º bachillerato",
     "detalle": "Sesiones de la evaluación final ordinaria de 1.º de Bachillerato.",
     "hasta": "2027-06-09",
     "bachillerato": true,
@@ -465,7 +465,7 @@
   {
     "fecha": "2027-06-10",
     "tipo": "evento",
-    "titulo": "Equipos educativos: convocatoria extraordinaria de 2.º",
+    "titulo": "Equipos educativos: convocatoria extraordinaria de 2.º bachillerato",
     "detalle": "Reunión de los equipos educativos de los exámenes de la convocatoria extraordinaria de 2.º de Bachillerato.",
     "bachillerato": true,
     "familias": false
@@ -473,7 +473,7 @@
   {
     "fecha": "2027-06-11",
     "tipo": "evento",
-    "titulo": "Fecha límite: notas de la extraordinaria de 2.º",
+    "titulo": "Fecha límite: notas de la extraordinaria de 2.º de bachillerato",
     "detalle": "9:00 h: comunicación a Jefatura de Estudios de las notas de los exámenes de la convocatoria extraordinaria de 2.º de Bachillerato.",
     "bachillerato": true,
     "familias": false
@@ -495,7 +495,7 @@
   {
     "fecha": "2027-06-15",
     "tipo": "evento",
-    "titulo": "Reclamaciones (ordinaria de 1.º y extraordinaria de 2.º)",
+    "titulo": "Reclamaciones calificaciones evaluación ordinaria de 1.º y extraordinaria de 2.º bachillerato",
     "detalle": "Plazo de presentación de reclamaciones de 2.º de Bachillerato (convocatoria extraordinaria) y de 1.º de Bachillerato (convocatoria ordinaria).",
     "hasta": "2027-06-16",
     "bachillerato": true
@@ -503,8 +503,9 @@
   {
     "fecha": "2027-06-17",
     "tipo": "evento",
-    "titulo": "Exámenes de la evaluación final extraordinaria de 1.º (17, 18, 19 y 22 de junio)",
+    "titulo": "Exámenes de la evaluación final extraordinaria de 1.º de bachillerato",
     "detalle": "Exámenes de la evaluación final extraordinaria de 1.º de Bachillerato (cronograma de los exámenes publicado en la sala de profesores).",
+    "hasta": "2027-06-22",
     "bachillerato": true
   },
   {
@@ -525,7 +526,7 @@
   {
     "fecha": "2027-06-23",
     "tipo": "evento",
-    "titulo": "Sesiones de la evaluación final extraordinaria de 1.º",
+    "titulo": "Sesiones de la evaluación final extraordinaria de 1.º bachillerato",
     "detalle": "Sesiones de evaluación de la evaluación final extraordinaria de 1.º de Bachillerato.",
     "bachillerato": true,
     "familias": false
@@ -539,15 +540,16 @@
   {
     "fecha": "2027-06-25",
     "tipo": "evento",
-    "titulo": "Publicación de calificaciones de la extraordinaria de 1.º",
+    "titulo": "Publicación de calificaciones de la extraordinaria de 1.º de bachillerato",
     "detalle": "Se publican las calificaciones de la convocatoria final extraordinaria de 1.º de Bachillerato.",
     "bachillerato": true
   },
   {
     "fecha": "2027-06-26",
     "tipo": "evento",
-    "titulo": "Reclamaciones de la extraordinaria de 1.º (26 y 29 de junio)",
-    "detalle": "Plazo de presentación de reclamaciones a la evaluación extraordinaria de 1.º de Bachillerato y atención de los departamentos a las posibles reclamaciones.",
+    "titulo": "Reclamaciones de la extraordinaria de 1.º de bachillerato",
+    "detalle": "Plazo de presentación de reclamaciones a la evaluación extraordinaria de 1.º de Bachillerato hasta las 14:00 del 29/5",
+    "hasta": "2027-06-29",
     "bachillerato": true
   },
   {
@@ -563,5 +565,13 @@
     "titulo": "Inicio Cursos de Especialización",
     "detalle": "",
     "fp": true
+  },
+  {
+    "fecha": "2027-06-26",
+    "tipo": "evento",
+    "titulo": "Reclamaciones de la extraordinaria de 1.º de bachillerato",
+    "detalle": "Plazo de presentación de reclamaciones a la evaluación extraordinaria de 1.º de Bachillerato hasta las 14:00 del 29/5",
+    "hasta": "2027-06-29",
+    "bachillerato": true
   }
 ]
