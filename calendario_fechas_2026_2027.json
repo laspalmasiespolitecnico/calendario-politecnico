@@ -573,5 +573,14 @@
     "detalle": "Plazo de presentación de reclamaciones a la evaluación extraordinaria de 1.º de Bachillerato hasta las 14:00 del 29/5",
     "hasta": "2027-06-29",
     "bachillerato": true
+  },
+  {
+    "fecha": "2026-09-24",
+    "tipo": "evento",
+    "titulo": "Claustro ordinario",
+    "detalle": "Asunto: CLAUSTRO ORDINARIO\n\nLugar : MIXTO\n\nLe comunico que el próximo jueves, 24 de septiembre de 2026, a las 14:00 horas en primera convocatoria, se celebrará una reunión de Claustro de Profesorado. Dicho Claustro será Mixto, Salón de Actos y online, y el próximo martes día 22 se enviará el link para acceder al mismo. El orden de día es:\n\n1. Aprobación de Actas anteriores.\n2. Días de libre disposición,\n3. Ruegos y preguntas.",
+    "bachillerato": true,
+    "fp": true,
+    "familias": false
   }
 ]
