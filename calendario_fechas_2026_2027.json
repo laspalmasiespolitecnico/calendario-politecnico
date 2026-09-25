@@ -582,5 +582,21 @@
     "bachillerato": true,
     "fp": true,
     "familias": false
+  },
+  {
+    "fecha": "2026-10-16",
+    "tipo": "evento",
+    "titulo": "Jornada acogida 1°",
+    "detalle": "Jornada de acogida a todo el alumnado de 1° (bachillerato y ciclos) en San José del Álamo. De 8:00 a 14:00. El traslado se realizará en guaguas contratadas por el centro.",
+    "bachillerato": true,
+    "fp": true
+  },
+  {
+    "fecha": "2026-10-16",
+    "tipo": "evento",
+    "titulo": "Jornada acogida 1°",
+    "detalle": "Jornada de acogida a todo el alumnado de 1° (bachillerato y ciclos) en San José del Álamo. De 8:00 a 14:00. El traslado se realizará en guaguas contratadas por el centro.",
+    "bachillerato": true,
+    "fp": true
   }
 ]
