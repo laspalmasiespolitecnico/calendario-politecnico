@@ -239,7 +239,7 @@
     "detalle": "Día de la Paz (DENIP). Cae en sábado: la celebración en el centro se realizará el viernes 29."
   },
   {
-    "fecha": "2027-02-08",
+    "fecha": "2027-02-15",
     "tipo": "evento",
     "titulo": "Tarde de tutores",
     "detalle": "Tarde de atención de las tutorías.",
@@ -252,11 +252,12 @@
     "detalle": "Día no lectivo."
   },
   {
-    "fecha": "2027-03-01",
+    "fecha": "2027-03-08",
     "tipo": "evento",
     "titulo": "Tarde de tutores",
     "detalle": "Tarde de atención de las tutorías.",
-    "bachillerato": true
+    "bachillerato": true,
+    "fp": true
   },
   {
     "fecha": "2027-03-08",
@@ -327,7 +328,7 @@
     "familias": false
   },
   {
-    "fecha": "2027-04-19",
+    "fecha": "2027-04-12",
     "tipo": "evento",
     "titulo": "Tarde de tutores",
     "detalle": "Tarde de atención de las tutorías (cronograma de las aulas publicado en la sala de profesores).",
@@ -593,6 +594,14 @@
   },
   {
     "fecha": "2026-10-26",
+    "tipo": "evento",
+    "titulo": "Tarde de tutores",
+    "detalle": "",
+    "bachillerato": true,
+    "fp": true
+  },
+  {
+    "fecha": "2027-04-26",
     "tipo": "evento",
     "titulo": "Tarde de tutores",
     "detalle": "",
