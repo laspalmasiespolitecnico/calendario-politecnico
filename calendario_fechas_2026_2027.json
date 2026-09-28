@@ -607,5 +607,13 @@
     "detalle": "",
     "bachillerato": true,
     "fp": true
+  },
+  {
+    "fecha": "2027-05-18",
+    "tipo": "evento",
+    "titulo": "Orla 2° bachillerato y ciclos formativos",
+    "detalle": "",
+    "bachillerato": true,
+    "fp": true
   }
 ]
