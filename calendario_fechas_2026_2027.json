@@ -111,11 +111,11 @@
     "familias": false
   },
   {
-    "fecha": "2026-10-26",
+    "fecha": "2026-10-19",
     "tipo": "evento",
     "titulo": "Sesiones de evaluación inicial",
     "detalle": "Sesiones de la evaluación inicial, sin nota.",
-    "hasta": "2026-10-28",
+    "hasta": "2026-10-23",
     "bachillerato": true,
     "familias": false
   },
@@ -472,7 +472,7 @@
     "familias": false
   },
   {
-    "fecha": "2027-06-11",
+    "fecha": "2027-06-09",
     "tipo": "evento",
     "titulo": "Fecha límite: notas de la extraordinaria de 2.º de bachillerato",
     "detalle": "9:00 h: comunicación a Jefatura de Estudios de las notas de los exámenes de la convocatoria extraordinaria de 2.º de Bachillerato.",
@@ -487,7 +487,7 @@
     "bachillerato": true
   },
   {
-    "fecha": "2027-06-15",
+    "fecha": "2027-06-14",
     "tipo": "evento",
     "titulo": "Atención a las familias de 1.º de Bachillerato",
     "detalle": "17:30–19:30 h: atención a las familias por parte de todo el profesorado de 1.º de Bachillerato (cronograma de las aulas publicado en la sala de profesores).",
