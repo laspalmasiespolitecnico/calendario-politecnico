@@ -549,7 +549,7 @@
     "fecha": "2027-06-26",
     "tipo": "evento",
     "titulo": "Reclamaciones de la extraordinaria de 1.º de bachillerato",
-    "detalle": "Plazo de presentación de reclamaciones a la evaluación extraordinaria de 1.º de Bachillerato hasta las 14:00 del 29/5",
+    "detalle": "Plazo de presentación de reclamaciones a la evaluación extraordinaria de 1.º de Bachillerato hasta las 14:00 del 29/6",
     "hasta": "2027-06-29",
     "bachillerato": true
   },
@@ -566,14 +566,6 @@
     "titulo": "Inicio Cursos de Especialización",
     "detalle": "",
     "fp": true
-  },
-  {
-    "fecha": "2027-06-26",
-    "tipo": "evento",
-    "titulo": "Reclamaciones de la extraordinaria de 1.º de bachillerato",
-    "detalle": "Plazo de presentación de reclamaciones a la evaluación extraordinaria de 1.º de Bachillerato hasta las 14:00 del 29/5",
-    "hasta": "2027-06-29",
-    "bachillerato": true
   },
   {
     "fecha": "2026-09-24",
