@@ -607,5 +607,35 @@
     "detalle": "",
     "bachillerato": true,
     "fp": true
+  },
+  {
+    "fecha": "2027-02-08",
+    "tipo": "nolectivo",
+    "titulo": "No lectivo",
+    "detalle": "Libre disposición del centro",
+    "bachillerato": true,
+    "fp": true
+  },
+  {
+    "fecha": "2027-02-10",
+    "tipo": "nolectivo",
+    "titulo": "No lectivo",
+    "detalle": "Libre disposición del centro",
+    "bachillerato": true,
+    "fp": true
+  },
+  {
+    "fecha": "2026-11-03",
+    "tipo": "nolectivo",
+    "titulo": "No lectivo",
+    "detalle": "Libre disposición del centro",
+    "bachillerato": true,
+    "fp": true
+  },
+  {
+    "fecha": "2027-05-28",
+    "tipo": "nolectivo",
+    "titulo": "No lectivo",
+    "detalle": "Libre disposición del centro"
   }
 ]
