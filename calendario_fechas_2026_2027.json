@@ -610,7 +610,7 @@
   },
   {
     "fecha": "2027-02-08",
-    "tipo": "nolectivo",
+    "tipo": "festivo",
     "titulo": "No lectivo",
     "detalle": "Libre disposición del centro",
     "bachillerato": true,
@@ -618,15 +618,15 @@
   },
   {
     "fecha": "2027-02-10",
-    "tipo": "nolectivo",
+    "tipo": "festivo",
     "titulo": "No lectivo",
     "detalle": "Libre disposición del centro",
     "bachillerato": true,
     "fp": true
   },
   {
-    "fecha": "2026-11-03",
-    "tipo": "nolectivo",
+    "fecha": "2026-11-16",
+    "tipo": "festivo",
     "titulo": "No lectivo",
     "detalle": "Libre disposición del centro",
     "bachillerato": true,
@@ -634,7 +634,7 @@
   },
   {
     "fecha": "2027-05-28",
-    "tipo": "nolectivo",
+    "tipo": "festivo",
     "titulo": "No lectivo",
     "detalle": "Libre disposición del centro"
   }
