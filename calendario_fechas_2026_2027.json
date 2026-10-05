@@ -129,7 +129,7 @@
     "fecha": "2026-11-09",
     "tipo": "evento",
     "titulo": "Tarde de tutores",
-    "detalle": "Tarde de atención de las tutorías.",
+    "detalle": "De 17:00 a 18:00. Se recomienda solicitar cita con el tutor para evitar esperas.",
     "bachillerato": true
   },
   {
@@ -193,8 +193,10 @@
   {
     "fecha": "2026-12-14",
     "tipo": "evento",
-    "titulo": "Atención a las familias",
-    "detalle": "17:30–19:30 h: atención a las familias por parte de todo el profesorado."
+    "titulo": "Atención a las familias todo el profesorado",
+    "detalle": "Atención a las familias por parte de todo el profesorado. De 17:00 a 19:00. Se recomienda solicitar cita con los profesores con los que se desee hablar para evitar esperas.",
+    "bachillerato": true,
+    "fp": true
   },
   {
     "fecha": "2026-12-20",
@@ -220,8 +222,8 @@
   {
     "fecha": "2027-01-18",
     "tipo": "evento",
-    "titulo": "Tarde de tutores",
-    "detalle": "Tarde de atención de las tutorías.",
+    "titulo": "Tarde de tutores bachillerato y grados medios",
+    "detalle": "Tarde de atención de las tutorías. De 17:00 a 18:00. Se recomienda solicitar cita con el tutor para evitar esperas.",
     "bachillerato": true
   },
   {
@@ -241,9 +243,10 @@
   {
     "fecha": "2027-02-15",
     "tipo": "evento",
-    "titulo": "Tarde de tutores",
-    "detalle": "Tarde de atención de las tutorías.",
-    "bachillerato": true
+    "titulo": "Tarde de tutores bachillerato y grados medios",
+    "detalle": "Tarde de atención de las tutorías.De 17:00 a 18:00. Se recomienda solicitar cita con el tutor para evitar esperas.",
+    "bachillerato": true,
+    "fp": true
   },
   {
     "fecha": "2027-02-09",
@@ -254,8 +257,8 @@
   {
     "fecha": "2027-03-08",
     "tipo": "evento",
-    "titulo": "Tarde de tutores",
-    "detalle": "Tarde de atención de las tutorías.",
+    "titulo": "Tarde de tutores bachillerato y gradoss medios",
+    "detalle": "Tarde de atención de las tutorías. De 17:00 a 18:00. Se recomienda solicitar cita con el tutor para evitar esperas.",
     "bachillerato": true,
     "fp": true
   },
@@ -317,7 +320,9 @@
     "fecha": "2027-03-29",
     "tipo": "evento",
     "titulo": "Atención a las familias todo el profesorado",
-    "detalle": "17:30–19:30 h: atención a las familias por parte de todo el profesorado."
+    "detalle": "17:00–19:00 h: atención a las familias por parte de todo el profesorado. De 17:00 a 18:00. Se recomienda solicitar cita con el profesorado con quien desee hablar para evitar esperas.",
+    "bachillerato": true,
+    "fp": true
   },
   {
     "fecha": "2027-04-04",
@@ -330,9 +335,10 @@
   {
     "fecha": "2027-04-12",
     "tipo": "evento",
-    "titulo": "Tarde de tutores",
-    "detalle": "Tarde de atención de las tutorías (cronograma de las aulas publicado en la sala de profesores).",
-    "bachillerato": true
+    "titulo": "Tarde de tutores bachillerato y ciclos formativos",
+    "detalle": "Tarde de atención de las tutorías.De 17:00 a 18:00. Se recomienda solicitar cita con el tutor para evitar esperas.",
+    "bachillerato": true,
+    "fp": true
   },
   {
     "fecha": "2027-04-19",
@@ -390,7 +396,7 @@
     "fecha": "2027-05-17",
     "tipo": "evento",
     "titulo": "Atención a las familias de 2.º de Bachillerato",
-    "detalle": "17:30–19:30 h: atención a las familias por parte de todo el profesorado de 2.º de Bachillerato.",
+    "detalle": "De 17:00 a 19:00. Se recomienda solicitar cita a cada profesor con quien se desee hablar para evitar esparas. Atención a las familias por parte de todo el profesorado de 2.º de Bachillerato.",
     "bachillerato": true
   },
   {
@@ -490,7 +496,7 @@
     "fecha": "2027-06-14",
     "tipo": "evento",
     "titulo": "Atención a las familias de 1.º de Bachillerato",
-    "detalle": "17:30–19:30 h: atención a las familias por parte de todo el profesorado de 1.º de Bachillerato (cronograma de las aulas publicado en la sala de profesores).",
+    "detalle": "17:00–19:00 h: atención a las familias por parte de todo el profesorado de 1.º de Bachillerato. Se recomienda pedir cita con cada profesor con quien desee hablar para evitar esperas.",
     "bachillerato": true
   },
   {
@@ -580,23 +586,23 @@
     "fecha": "2026-10-16",
     "tipo": "evento",
     "titulo": "Jornada acogida 1°",
-    "detalle": "Jornada de acogida a todo el alumnado de 1° (bachillerato y ciclos) en San José del Álamo. De 8:00 a 14:00. El traslado se realizará en guaguas contratadas por el centro. Deberán llevar gorra, protección solar, agua y desayuno.",
+    "detalle": "Jornada de acogida a todo el alumnado de 1° (bachillerato y ciclos GM) en el Parque de las Rehoyas. De 8:30 a 13:30. Deberán llevar gorra, protección solar, agua y desayuno.",
     "bachillerato": true,
     "fp": true
   },
   {
     "fecha": "2026-10-26",
     "tipo": "evento",
-    "titulo": "Tarde de tutores",
-    "detalle": "",
+    "titulo": "Tarde de tutores bachillerato y grados medios",
+    "detalle": "De 17:00 a 18:00. Se recomienda solicitar cita con el tutor para evitar esperas.",
     "bachillerato": true,
     "fp": true
   },
   {
     "fecha": "2027-04-26",
     "tipo": "evento",
-    "titulo": "Tarde de tutores",
-    "detalle": "",
+    "titulo": "Tarde de tutores de bachillerato y grados medios",
+    "detalle": "De 17:00 a 18:00. Se recomienda solicitar cita con el tutor para evitar esperas.",
     "bachillerato": true,
     "fp": true
   },
@@ -637,5 +643,22 @@
     "tipo": "festivo",
     "titulo": "No lectivo",
     "detalle": "Libre disposición del centro"
+  },
+  {
+    "fecha": "2026-11-09",
+    "tipo": "evento",
+    "titulo": "Tarde de tutores bachillerato y grados medios",
+    "detalle": "De 17:00 a 18:00. Se recomienda solicitar cita con el tutor para evitar esperas.",
+    "bachillerato": true,
+    "fp": true
+  },
+  {
+    "fecha": "2027-06-29",
+    "tipo": "evento",
+    "titulo": "Convocatoria extraordinaria PAU",
+    "detalle": "29 y 30 de junio y 1 de julio",
+    "hasta": "2027-06-30",
+    "bachillerato": true,
+    "fp": true
   }
 ]
