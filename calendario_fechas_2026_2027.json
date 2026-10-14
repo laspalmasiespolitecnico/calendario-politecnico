@@ -128,6 +128,13 @@
   {
     "fecha": "2026-11-09",
     "tipo": "evento",
+    "titulo": "Tarde de tutores",
+    "detalle": "De 17:00 a 18:00. Se recomienda solicitar cita con el tutor para evitar esperas.",
+    "bachillerato": true
+  },
+  {
+    "fecha": "2026-11-09",
+    "tipo": "evento",
     "titulo": "Encuestas de satisfacción en EVAGD",
     "detalle": "Realización de las encuestas de satisfacción del alumnado en EVAGD.",
     "hasta": "2026-11-13",
@@ -250,7 +257,7 @@
   {
     "fecha": "2027-03-08",
     "tipo": "evento",
-    "titulo": "Tarde de tutores bachillerato y grados medios",
+    "titulo": "Tarde de tutores bachillerato y gradoss medios",
     "detalle": "Tarde de atención de las tutorías. De 17:00 a 18:00. Se recomienda solicitar cita con el tutor para evitar esperas.",
     "bachillerato": true,
     "fp": true
@@ -313,7 +320,7 @@
     "fecha": "2027-03-29",
     "tipo": "evento",
     "titulo": "Atención a las familias todo el profesorado",
-    "detalle": "17:00–19:00 h: atención a las familias por parte de todo el profesorado. Se recomienda solicitar cita con el profesorado con quien desee hablar para evitar esperas.",
+    "detalle": "17:00–19:00 h: atención a las familias por parte de todo el profesorado. De 17:00 a 18:00. Se recomienda solicitar cita con el profesorado con quien desee hablar para evitar esperas.",
     "bachillerato": true,
     "fp": true
   },
@@ -653,5 +660,14 @@
     "hasta": "2027-06-30",
     "bachillerato": true,
     "fp": true
+  },
+  {
+    "fecha": "2026-10-14",
+    "tipo": "evento",
+    "titulo": "Claustro",
+    "detalle": "",
+    "bachillerato": true,
+    "fp": true,
+    "familias": false
   }
 ]
