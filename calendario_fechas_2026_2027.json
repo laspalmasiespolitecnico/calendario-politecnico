@@ -100,7 +100,7 @@
     "titulo": "1.ª Junta de delegados/as",
     "detalle": "14:00 h, Salón de Actos, con Jefatura de Estudios y Vicedirección.",
     "bachillerato": true,
-    "fp": true
+    "familias": false
   },
   {
     "fecha": "2026-10-19",
@@ -129,7 +129,7 @@
     "fecha": "2026-11-03",
     "tipo": "evento",
     "titulo": "Tarde de tutores",
-    "detalle": "Tarde de atención de las tutorías.",
+    "detalle": "Tarde de atención de las tutorías de 17:00 a 18:00. Se recomienda pedir cita al tutor para evitar esperas.",
     "bachillerato": true
   },
   {
@@ -145,7 +145,7 @@
     "fecha": "2026-11-16",
     "tipo": "evento",
     "titulo": "Tarde de tutores",
-    "detalle": "Tarde de atención de las tutorías.",
+    "detalle": "Tarde de atención de las tutorías de 17:00 a 18:00. Se recomienda pedir cita al tutor para evitar esperas.",
     "bachillerato": true
   },
   {
@@ -194,7 +194,7 @@
     "fecha": "2026-12-14",
     "tipo": "evento",
     "titulo": "Atención a las familias",
-    "detalle": "17:30–19:30 h: atención a las familias por parte de todo el profesorado."
+    "detalle": "17:30–19:30 h: atención a las familias por parte de todo el profesorado de 17:00 a 19:00. Se recomienda pedir cita a cada profesor para evitar esperas."
   },
   {
     "fecha": "2026-12-20",
@@ -221,7 +221,7 @@
     "fecha": "2027-01-18",
     "tipo": "evento",
     "titulo": "Tarde de tutores",
-    "detalle": "Tarde de atención de las tutorías.",
+    "detalle": "Tarde de atención de las tutorías de 17:00 a 18:00. Se recomienda pedir cita al tutor para evitar esperas.",
     "bachillerato": true
   },
   {
@@ -242,7 +242,7 @@
     "fecha": "2027-02-08",
     "tipo": "evento",
     "titulo": "Tarde de tutores",
-    "detalle": "Tarde de atención de las tutorías.",
+    "detalle": "Tarde de atención de las tutorías de 17:00 a 18:00. Se recomienda pedir cita al tutor para evitar esperas.",
     "bachillerato": true
   },
   {
@@ -586,17 +586,36 @@
   {
     "fecha": "2026-10-16",
     "tipo": "evento",
-    "titulo": "Jornada acogida 1°",
-    "detalle": "Jornada de acogida a todo el alumnado de 1° de bachillerato y 1º ciclos de grado medio en San José del Álamo. De 8:00 a 14:00. El traslado se realizará en guaguas contratadas por el centro. Deberán llevar gorra, protección solar, agua y desayuno.",
+    "titulo": "Jornada acogida 1º de bachillerato y ciclos",
+    "detalle": "Jornada de 8:30 a 13:30 en el Parque de las Rehoyas para todo el alumnado de 1º (bachillerato y ciclos GM).",
     "bachillerato": true,
     "fp": true
   },
   {
-    "fecha": "2026-10-14",
+    "fecha": "2026-10-19",
     "tipo": "evento",
-    "titulo": "Claustro",
+    "titulo": "SESIONES EVALUACIÓN INICIAL Dpto. Electrónica",
     "detalle": "",
-    "bachillerato": true,
+    "cuadrante": [
+      {
+        "dia": "2026-10-19",
+        "hora": "13:30 → 14:15",
+        "grupo": "GSEMC1A  EL9",
+        "aula": "ADRIÁN ALCALDE RODRÍGUEZ"
+      },
+      {
+        "dia": "2026-10-19",
+        "hora": "14:15 → 15:00",
+        "grupo": "DRONES",
+        "aula": "EL9"
+      },
+      {
+        "dia": "2026-10-19",
+        "hora": "15:00 → 15:45",
+        "grupo": "GSST2A",
+        "aula": "EL9"
+      }
+    ],
     "fp": true,
     "familias": false
   }
