@@ -618,5 +618,83 @@
     ],
     "fp": true,
     "familias": false
+  },
+  {
+    "fecha": "2026-10-20",
+    "tipo": "evento",
+    "titulo": "SESIONES EVALUACIÓN INICIAL Dpto. Electrónica",
+    "detalle": "",
+    "cuadrante": [
+      {
+        "dia": "2026-10-20",
+        "hora": "14:00 → 14:45",
+        "grupo": "GMIT1A",
+        "aula": "EL9"
+      },
+      {
+        "dia": "2026-10-20",
+        "hora": "14:45 → 15:30",
+        "grupo": "GSME1A",
+        "aula": "EL9"
+      }
+    ],
+    "fp": true,
+    "familias": false
+  },
+  {
+    "fecha": "2026-10-21",
+    "tipo": "evento",
+    "titulo": "SESIONES EVALUACIÓN INICIAL Dpto. Electrónica",
+    "detalle": "",
+    "cuadrante": [
+      {
+        "dia": "2026-10-21",
+        "hora": "14:00 → 14:45",
+        "grupo": "GMIT2A",
+        "aula": "EL9"
+      },
+      {
+        "dia": "2026-10-21",
+        "hora": "14:15 → 15:00",
+        "grupo": "GSME2A",
+        "aula": "EL5"
+      },
+      {
+        "dia": "2026-10-21",
+        "hora": "14:15 → 15:00",
+        "grupo": "CIBER",
+        "aula": "EL3"
+      },
+      {
+        "dia": "2026-10-21",
+        "hora": "14:45 → 15:30",
+        "grupo": "GSME2A",
+        "aula": "EL9"
+      }
+    ],
+    "fp": true,
+    "familias": false
+  },
+  {
+    "fecha": "2026-10-22",
+    "tipo": "evento",
+    "titulo": "SESIONES EVALUACIÓN INICIAL Dpto. Electrónica",
+    "detalle": "",
+    "cuadrante": [
+      {
+        "dia": "2026-10-22",
+        "hora": "14:00 → 14:45",
+        "grupo": "GSST1A",
+        "aula": "EL9"
+      },
+      {
+        "dia": "2026-10-22",
+        "hora": "14:15 → 15:00",
+        "grupo": "CD2A",
+        "aula": "EL9"
+      }
+    ],
+    "fp": true,
+    "familias": false
   }
 ]
